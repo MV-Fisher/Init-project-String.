@@ -33,3 +33,4 @@ public class Main {
         System.out.println("Данные ФИО сотрудника " + fullName);
     }
 }
+//Домашнее задание считаю выполненным.
